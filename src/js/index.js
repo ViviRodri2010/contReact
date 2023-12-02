@@ -21,6 +21,7 @@ setInterval(() => {
     ReactDOM.render((
     <>
       <div>
+        <h1>⏰</h1>
         <h1>{hundredthousands}</h1> 
         <h1>{tenthousands}</h1>
         <h1>{thousands}</h1> 
